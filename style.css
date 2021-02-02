@@ -1,0 +1,44 @@
+.button {
+  border-radius: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: white;
+}
+/* {
+  background-color: rgba(117, 170, 82, 0.4);
+} */
+.header,
+.navbar {
+  background-color: #f0fff0;
+}
+#book {
+  background: #f8fffb;
+  border-radius: 10px;
+}
+.card {
+  border: none;
+}
+.card,
+.book {
+  background: #f8fffb;
+  border-radius: 10px;
+}
+.card,
+.student {
+  background: #ffffff;
+  box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+.card,
+.test {
+  background: #f8fffb;
+  border-radius: 10px;
+}
+.card,
+.students {
+  background: #f8fffb;
+  border-radius: 10px;
+}
+.float {
+  float: right;
+}
